@@ -1,9 +1,10 @@
 pandas
 numpy
+sqlalchemy
 scikit-learn
 matplotlib
 seaborn
 streamlit
-sqlalchemy
 pytest
 plotly
+jupyter
